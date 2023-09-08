@@ -50,7 +50,7 @@ Para usar esses endpoints, você precisa fazer requisições HTTP para os URLs c
 
 ## Exemplos de Uso
 
-Aqui estão alguns exemplos de como usar a API com o programa **[Insomnia]**(https://insomnia.rest/).
+Aqui estão alguns exemplos de como usar a API com o programa **[Insomnia](https://insomnia.rest/)**.
 
 1. **Listar todas as contas**:
   ```
@@ -103,7 +103,6 @@ POST http://localhost:3000/deposito
 Corpo da solicitação (JSON):
 
 ```json
-Copy code
 {
   "numero_conta": "1",
   "valor": 100.00
@@ -151,11 +150,7 @@ GET http://localhost:3000/extrato?numero_conta=1&senha=senha123
 ```
 Lembre-se de ajustar os valores e parâmetros de acordo com o que você deseja testar.
 
-## Documentação
-Para obter mais informações sobre os endpoints disponíveis e os parâmetros necessários, consulte a documentação da API em docs/api-docs.md.
 
-## Contribuição
-Se você quiser contribuir com melhorias ou correções para esta API, sinta-se à vontade para fazer um fork deste repositório, criar um novo branch, fazer suas alterações e criar uma solicitação de pull.
 
    
 
