@@ -1,14 +1,14 @@
-API de Contas Bancárias
+# API de Contas Bancárias
 Esta é uma API simples para gerenciar contas bancárias. Ela permite criar, atualizar, encerrar contas, fazer depósitos, saques, transferências e verificar o saldo e extrato de uma conta.
 
-Instalação
-Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em nodejs.org.
+## Instalação
+1. Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/en).
+2. Clone este repositório para a sua máquina local:
 
-Clone este repositório para a sua máquina local:
-
-bash
+```bash
 Copy code
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
 Navegue até o diretório do projeto:
 
 arduino
