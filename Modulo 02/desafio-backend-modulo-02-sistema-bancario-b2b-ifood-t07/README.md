@@ -5,10 +5,9 @@ Esta é uma API simples para gerenciar contas bancárias. Ela permite criar, atu
 1. Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/en).
 2. Clone este repositório para a sua máquina local:
 
-´´´bash
-Copy code
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-´´´
+> bash
+> git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
 Navegue até o diretório do projeto:
 
 arduino
