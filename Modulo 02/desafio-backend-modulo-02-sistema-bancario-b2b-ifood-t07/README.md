@@ -1,10 +1,10 @@
-# API de Contas Bancárias
+# 🏦 API de Contas Bancárias
 
 Esta é uma API simples para gerenciar contas bancárias. Ela permite criar, atualizar, encerrar contas, fazer depósitos, saques, transferências e verificar o saldo e extrato de uma conta.
 
-## Instalação
+## 💻 Instalação
 
-1. Certifique-se de ter o **Node.js** instalado em sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
+1. Certifique-se de ter o **Node.js** instalado em sua máquina. Você pode baixá-lo em 🔗 [nodejs.org](https://nodejs.org/).
 
 2. Clone este repositório para a sua máquina local:
 
@@ -32,7 +32,7 @@ npm run dev
 
 O servidor estará rodando na porta padrão 3000. Você pode acessar a API através de **`http://localhost:3000`**.
 
-## Uso
+## 👨‍💻 Uso
 
 A API possui os seguintes endpoints:
 
@@ -149,6 +149,13 @@ GET http://localhost:3000/saldo?numero_conta=1&senha=senha123
 GET http://localhost:3000/extrato?numero_conta=1&senha=senha123
 ```
 Lembre-se de ajustar os valores e parâmetros de acordo com o que você deseja testar.
+
+## 🖼️ Exemplo de utilização dos endpoints no Insomnia
+
+Aqui temos um print do teste feito no Insomnia 
+
+![image](https://github.com/jorgemunizf/JavaScript/assets/135549062/82a11967-b430-4c62-82d1-f29a61e82b79)
+
 
 
 
