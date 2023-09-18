@@ -1,4 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
 
 # Exercício 01
 
@@ -50,17 +49,6 @@ SELECT COUNT(*) FROM usuarios;
 
 16 - Faça uma query que retorna as três categorias e a soma do estoque de todos os medicamentos de cada categoria, na tabela `farmacia`.
 
-Faça o teste com outros exemplos.
 
-Faça commit do resultado.
-
----
-
-Preencha a checklist para finalizar o exercício:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
 
 ###### tags:`exercícios` `lógica` `banco de dados` `sql` `postgres`
